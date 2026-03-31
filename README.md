@@ -16,10 +16,11 @@
 ## 📑 Table of Contents
 
 
-- [📂 Portfolio Structure](- 📂 **[Portfolio Structure](https://github.com/natchapolp-glitch/Portfolio-for-CP352005-Computer-Networks/tree/main#-portfolio-structure)** )
-- [🧪 Group Work — Lab Reports](- 👥 **[Group Work](https://github.com/natchapolp-glitch/Portfolio-for-CP352005-Computer-Networks/tree/main/GroupWork)** )
-- [📝 Personal Work](- 📁 **[Personal Work](https://github.com/natchapolp-glitch/Portfolio-for-CP352005-Computer-Networks/tree/main/Personal_Work)** )
-- [📜 Certification](- 📜 **[CCNA Introduction to Networks Certificate](https://github.com/natchapolp-glitch/Portfolio-for-CP352005-Computer-Networks/blob/main/Certificate/CCNA-_Introduction_to_Networks_certificate_natchapol-p-kkumail-com_264f841f-ea91-42f2-abb5-d3d8b926cb4b.pdf)** )
+- [📂 Portfolio Structure](📂 **[Portfolio Structure](https://github.com/natchapolp-glitch/Portfolio-for-CP352005-Computer-Networks/tree/main#-portfolio-structure)** )
+- [🧪 Group Work — Lab Reports](👥 **[Group Work](https://github.com/natchapolp-glitch/Portfolio-for-CP352005-Computer-Networks/tree/main/GroupWork)** )
+- [📝 Personal Work](📁 **[Personal Work](https://github.com/natchapolp-glitch/Portfolio-for-CP352005-Computer-Networks/tree/main/Personal_Work)** )
+- [📜 Certification](📜 **[CCNA Introduction to Networks Certificate](https://github.com/natchapolp-glitch/Portfolio-for-CP352005-Computer-Networks/blob/main/Certificate/CCNA-_Introduction_to_Networks_certificate_natchapol-p-kkumail-com_264f841f-ea91-42f2-abb5-d3d8b926cb4b.pdf)** )
+- [📝Checkpoint](📸 **[Checkpoint Screenshot](https://github.com/natchapolp-glitch/Portfolio-for-CP352005-Computer-Networks/blob/main/Certificate/Screenshot%202026-03-31%20223746.png)**  )
 - [🔗 Links](#-links)
 
 ---
