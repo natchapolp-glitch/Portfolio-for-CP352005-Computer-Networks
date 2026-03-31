@@ -15,8 +15,7 @@
 
 ## 📑 Table of Contents
 
-- [👤 About Me](#-about-me)
-- [🛠️ Technical Skills](#️-technical-skills)
+
 - [📂 Portfolio Structure](#-portfolio-structure)
 - [🧪 Group Work — Lab Reports](#-group-work--lab-reports)
 - [📝 Personal Work](#-personal-work)
