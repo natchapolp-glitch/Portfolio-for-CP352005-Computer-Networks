@@ -6,13 +6,8 @@
 
 **รหัสนักศึกษา:** `673380267-4`
 
-[![CCNA](https://img.shields.io/badge/CCNA-Introduction_to_Networks-0078D4?style=for-the-badge&logo=cisco&logoColor=white)](Certificate/)
-[![GitHub](https://img.shields.io/badge/GitHub-natchapolp--glitch-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/natchapolp-glitch)
-[![Status](https://img.shields.io/badge/Status-Active-00C853?style=for-the-badge)](#)
 
----
 
-*Computer Network Portfolio — รวบรวมผลงานและประสบการณ์ด้าน Computer Networking*
 
 </div>
 
