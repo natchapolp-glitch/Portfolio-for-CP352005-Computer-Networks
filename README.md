@@ -2,7 +2,7 @@
 
 # 🎓 Academic Portfolio
 
-### นายณัชพล เพ็งพล (Natchapol Phengphon)
+### นายณัชพล เพ็งพล (Natchaphon Phengphon)
 
 **รหัสนักศึกษา:** `673380267-4`
 
@@ -199,7 +199,7 @@ Port/
 
 ### 🙏 ขอบคุณที่เข้ามาชม Portfolio ครับ
 
-*Made with ❤️ by Natchapol Phengphon*
+*Made with ❤️ by Natchaphon Phengphon*
 
 **673380267-4 | Khon Kaen University**
 
