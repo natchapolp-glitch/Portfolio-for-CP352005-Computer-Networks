@@ -16,10 +16,10 @@
 ## 📑 Table of Contents
 
 
-- [📂 Portfolio Structure](#-portfolio-structure)
-- [🧪 Group Work — Lab Reports](#-group-work--lab-reports)
-- [📝 Personal Work](#-personal-work)
-- [📜 Certification](#-certification)
+- [📂 Portfolio Structure]([#-portfolio-structure](https://github.com/natchapolp-glitch/Portfolio-for-CP352005-Computer-Networks/tree/main#-portfolio-structure))
+- [🧪 Group Work — Lab Reports](- 👥 **[Group Work](https://github.com/natchapolp-glitch/Portfolio-for-CP352005-Computer-Networks/tree/main/GroupWork)** – Collaborative networking projects and team-based assignments)
+- [📝 Personal Work](- 📁 **[Personal Work](https://github.com/natchapolp-glitch/Portfolio-for-CP352005-Computer-Networks/tree/main/Personal_Work)** – Individual assignments & hands-on networking practice)
+- [📜 Certification](- 📜 **[CCNA Introduction to Networks Certificate](https://github.com/natchapolp-glitch/Portfolio-for-CP352005-Computer-Networks/blob/main/Certificate/CCNA-_Introduction_to_Networks_certificate_natchapol-p-kkumail-com_264f841f-ea91-42f2-abb5-d3d8b926cb4b.pdf)** – Cisco Networking Academy)
 - [🔗 Links](#-links)
 
 ---
@@ -180,7 +180,7 @@ Port/
 
 ✅ **Status:** Completed
 
-> ใบรับรองอยู่ในโฟลเดอร์ [`Certificate/`](Certificate/)
+> ใบรับรองอยู่ในโฟลเดอร์- 📜 **[CCNA Introduction to Networks Certificate](https://github.com/natchapolp-glitch/Portfolio-for-CP352005-Computer-Networks/blob/main/Certificate/CCNA-_Introduction_to_Networks_certificate_natchapol-p-kkumail-com_264f841f-ea91-42f2-abb5-d3d8b926cb4b.pdf)** – Cisco Networking Academy
 
 </div>
 
